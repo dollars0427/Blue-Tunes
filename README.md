@@ -1,4 +1,8 @@
-My Awesome Book
+水平線上的Blue Tunes
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本書為艦娘創作企劃－水平線上的Blue Tunes的公開資料集，利用Gitbook編寫而成，以方便參與者及讀者隨時取得相關資料。
+
+如有任何問題，歡迎透過issues提出。
+
+

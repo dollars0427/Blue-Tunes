@@ -1,5 +1,5 @@
 # Summary
 
 * [關於本書](README.md)
-* [First Chapter](chapter1.md)
+* [水平線上的Blue Tunes是什麼？](chapter1.md)
 

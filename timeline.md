@@ -1,4 +1,4 @@
-#時間軸
+#時間軸及世界觀背景
 
 ![](https://hackpad-attachments.imgix.net/hackpad.com_d06oqQaM48X_p.306119_1429195839739_BT%20Timeline%20Edition.jpg?fit=max&w=882)
 

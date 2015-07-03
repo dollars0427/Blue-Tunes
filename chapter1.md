@@ -1,3 +1,5 @@
-# First Chapter
+# 水平線上的Blue Tunes 是什麼？
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+水平線上的Blue Tunes是一個以創作為主的交流小圈圈，主題為自創的提督及自創的鎮守府為主，並希望能藉此交流來提升各自的創作。
+
+個人專屬的鎮守府及艦娘們，是為了讓創作者可以自由創作屬於自己的故事；同一個世界觀是為了讓各創作者的孩子們可以互相交流。　

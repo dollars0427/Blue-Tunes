@@ -3,6 +3,8 @@
 
 本書為艦娘創作企劃－水平線上的Blue Tunes的公開資料集，利用Gitbook編寫而成，以方便參與者及讀者隨時取得相關資料。
 
+Gitbook連結：https://www.gitbook.com/book/dollars0427/blue-tunes
+
 
 維護者
 ---

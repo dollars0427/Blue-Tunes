@@ -1,6 +1,9 @@
 #時間軸及世界觀背景
 
+##時間軸
 ![](https://hackpad-attachments.imgix.net/hackpad.com_d06oqQaM48X_p.306119_1429195839739_BT%20Timeline%20Edition.jpg?fit=max&w=882)
+
+##世界觀背景
 
 1944年11月，面對戰爭局勢已經一面倒的日本，經由實驗證明植入戰鬥兵器「記憶」至人體，製造強化人的技術是可行的，軍部密令此強化人兵器的生產與開發為最優先。
 

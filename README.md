@@ -8,7 +8,7 @@ Gitbook連結：https://www.gitbook.com/book/dollars0427/blue-tunes
 
 維護者
 ---
-沙度/Mr.Twister － 我只負責資料搬運過來，然後修改得比較好閱讀一點罷了。
+沙度/Mr.Twister － 我只負責把資料搬運過來，然後修改得比較好閱讀一點罷了。（雖然自家的角色設定還是我寫啦....）
 
 原始碼
 ---
